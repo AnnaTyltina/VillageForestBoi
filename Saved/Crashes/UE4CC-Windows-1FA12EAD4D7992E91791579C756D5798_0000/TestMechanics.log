@@ -1,0 +1,1330 @@
+﻿Log file open, 11/13/19 00:01:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TestMechanics
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.731494
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: zxcvIntel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername="Anna Tyltina" -epicuserid=2127e2196b864606af6f84793db6b197 -epiclocale=ru-RU
+LogInit: Base Directory: D:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Engine.ini]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.11.12-21.01.17:524][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.11.12-21.01.17:525][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2019.11.12-21.01.17:526][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Engine.ini]
+[2019.11.12-21.01.17:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Engine.ini]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.12-21.01.17:527][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Engine.ini]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.12-21.01.17:528][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Engine.ini]
+[2019.11.12-21.01.17:528][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Engine.ini]
+[2019.11.12-21.01.17:570][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.01.17:570][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.12-21.01.17:570][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.12-21.01.17:570][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.01.17:570][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.12-21.01.17:570][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.01.17:570][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.12-21.01.17:570][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.12-21.01.17:570][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.12-21.01.17:570][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.12-21.01.17:570][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.12-21.01.17:570][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.12-21.01.17:570][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.12-21.01.17:570][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.12-21.01.17:570][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.12-21.01.17:571][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.12-21.01.17:572][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.12-21.01.17:573][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.12-21.01.17:573][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.01.17:573][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.12-21.01.17:573][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.12-21.01.17:573][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.12-21.01.17:573][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.12-21.01.17:573][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.12-21.01.17:573][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.12-21.01.17:573][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.12-21.01.17:573][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.12-21.01.17:573][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.12-21.01.17:573][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.12-21.01.17:573][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.12-21.01.17:573][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.12-21.01.17:573][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.12-21.01.17:574][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.01.17:574][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.12-21.01.17:574][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.12-21.01.17:579][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.12-21.01.17:579][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.12-21.01.17:597][  0]LogHAL: Display: Platform has ~ 6 GB [6322098176 / 8589934592 / 6], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.12-21.01.17:597][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.12-21.01.17:600][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.01.17:600][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.12-21.01.17:600][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.12-21.01.17:600][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.01.17:600][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.12-21.01.17:600][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.01.17:600][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.12-21.01.17:600][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.12-21.01.17:600][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.12-21.01.17:600][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.12-21.01.17:600][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.12-21.01.17:600][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.12-21.01.17:600][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.12-21.01.17:600][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.12-21.01.17:600][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.12-21.01.17:601][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.12-21.01.17:602][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.12-21.01.17:603][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.12-21.01.17:616][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.12-21.01.17:616][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.12-21.01.17:616][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Config/Windows/Engine.ini]
+[2019.11.12-21.01.17:629][  0]LogInit: Computer: LAPTOP-IFDBF4CK
+[2019.11.12-21.01.17:629][  0]LogInit: User: Аня
+[2019.11.12-21.01.17:629][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.11.12-21.01.17:629][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.12-21.01.17:630][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2019.11.12-21.01.17:630][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.12-21.01.17:630][  0]LogMemory: Process Physical Memory: 101.15 MB used, 101.15 MB peak
+[2019.11.12-21.01.17:630][  0]LogMemory: Process Virtual Memory: 98.09 MB used, 98.09 MB peak
+[2019.11.12-21.01.17:630][  0]LogMemory: Physical Memory: 4517.29 MB used,  1511.93 MB free, 6029.22 MB total
+[2019.11.12-21.01.17:630][  0]LogMemory: Virtual Memory: 4664.59 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.11.12-21.01.17:644][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.12-21.01.18:435][  0]LogInit: Using OS detected language (ru-RU).
+[2019.11.12-21.01.18:435][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.11.12-21.01.18:499][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.11.12-21.01.18:500][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.11.12-21.01.18:501][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.11.12-21.01.18:501][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.11.12-21.01.18:502][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.11.12-21.01.18:541][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.11.12-21.01.18:552][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.11.12-21.01.18:552][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.11.12-21.01.18:674][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.12-21.01.19:271][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.12-21.01.19:271][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.12-21.01.22:803][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.12-21.01.22:803][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.12-21.01.23:773][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R7 M340' (Feature Level 11_0)
+[2019.11.12-21.01.23:773][  0]LogD3D11RHI:       2039/0/3014 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.11.12-21.01.23:801][  0]LogD3D11RHI:    1. '@oem64.inf,zxcv%ikblultgt2%;zxcvIntel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.11.12-21.01.23:801][  0]LogD3D11RHI:       128/0/3014 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.12-21.01.23:931][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.12-21.01.23:931][  0]LogD3D11RHI:       0/0/3014 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.12-21.01.23:931][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.12-21.01.23:943][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.12-21.01.23:943][  0]LogD3D11RHI:     GPU DeviceId: 0x6900 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.12-21.01.23:962][  0]LogWindows: EnumDisplayDevices:
+[2019.11.12-21.01.23:962][  0]LogWindows:    0. 'zxcvIntel(R) HD Graphics 620' (P:1 D:1)
+[2019.11.12-21.01.23:963][  0]LogWindows:    1. 'zxcvIntel(R) HD Graphics 620' (P:0 D:0)
+[2019.11.12-21.01.23:963][  0]LogWindows:    2. 'zxcvIntel(R) HD Graphics 620' (P:0 D:0)
+[2019.11.12-21.01.23:963][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.11.12-21.01.23:963][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R7 M340
+[2019.11.12-21.01.23:964][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.11.12-21.01.23:964][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.11.12-21.01.23:964][  0]LogRHI: Texture pool is 1427 MB (70% of 2039 MB)
+[2019.11.12-21.01.24:044][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.12-21.01.24:085][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.11.12-21.01.26:062][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.12-21.01.26:120][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.12-21.01.26:141][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.12-21.01.26:184][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.12-21.01.26:263][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.12-21.01.26:296][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.12-21.01.26:311][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.12-21.01.26:326][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.12-21.01.26:338][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.12-21.01.26:417][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.12-21.01.26:432][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.12-21.01.26:544][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.12-21.01.26:544][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.12-21.01.26:591][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.12-21.01.26:591][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.12-21.01.26:627][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.12-21.01.26:648][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.12-21.01.26:666][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.12-21.01.26:685][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.12-21.01.26:725][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.12-21.01.26:725][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.12-21.01.26:725][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.12-21.01.26:886][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.12-21.01.27:856][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Intermediate/Shaders/WorkingDirectory/52204/).
+[2019.11.12-21.01.27:857][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Аня/AppData/Local/Temp/UnrealShaderWorkingDir/66EA03EA440756207D9F1D82ACBC580A/'.
+[2019.11.12-21.01.27:883][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.12-21.01.27:883][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.12-21.01.27:883][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.12-21.01.31:860][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.12-21.01.32:087][  0]LogDerivedDataCache: Loaded boot cache 0.23s 89MB C:/Users/Аня/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.12-21.01.32:087][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Аня/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.12-21.01.32:087][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../HSE/2019-2020/Git_old/VillageForestBoi/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.12-21.01.32:087][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.12-21.01.32:087][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../HSE/2019-2020/Git_old/VillageForestBoi/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.12-21.01.32:087][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.12-21.01.32:099][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.12-21.01.32:099][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.12-21.01.32:099][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.12-21.01.32:126][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Аня/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.12-21.01.32:126][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.12-21.01.32:126][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.12-21.01.32:151][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.12-21.01.32:167][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.12-21.01.32:231][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.12-21.01.34:511][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2019.11.12-21.01.38:538][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.12-21.01.40:463][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.12-21.01.40:463][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.12-21.01.40:463][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.12-21.01.40:463][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.12-21.01.40:465][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.12-21.01.40:561][  0]LogNetVersion: TestMechanics 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2371605710)
+[2019.11.12-21.01.42:177][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.223189 seconds
+[2019.11.12-21.01.42:199][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.12-21.01.42:199][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.12-21.01.42:199][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.12-21.02.04:025][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.12-21.02.04:054][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.12-21.02.04:538][  0]SourceControl: Source control is disabled
+[2019.11.12-21.02.04:538][  0]SourceControl: Source control is disabled
+[2019.11.12-21.02.04:675][  0]SourceControl: Source control is disabled
+[2019.11.12-21.02.04:698][  0]SourceControl: Source control is disabled
+[2019.11.12-21.02.04:756][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.12-21.02.04:756][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.12-21.02.09:533][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.12-21.02.10:212][  0]LogOcInput: OculusInput pre-init called
+[2019.11.12-21.02.10:253][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.12-21.02.10:253][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.12-21.02.12:220][  0]LogEngine: Initializing Engine...
+[2019.11.12-21.02.12:290][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.12-21.02.12:353][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.017 s
+[2019.11.12-21.02.13:321][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.12-21.02.13:988][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.12-21.02.14:178][  0]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-21.02.15:513][  0]LogInit: FAudioDevice initialized.
+[2019.11.12-21.02.15:513][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.12-21.02.15:603][  0]LogDerivedDataCache: Saved boot cache 0.09s 89MB C:/Users/Аня/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.12-21.02.15:611][  0]LogInit: Texture streaming: Enabled
+[2019.11.12-21.02.16:040][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.12-21.02.16:041][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.12-21.02.16:044][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.12-21.02.17:336][  0]LogInit: Transaction tracking system initialized
+[2019.11.12-21.02.19:155][  0]BlueprintLog: New page: Editor Load
+[2019.11.12-21.02.20:246][  0]LocalizationService: Localization service is disabled
+[2019.11.12-21.02.21:238][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.12-21.02.21:239][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.12-21.02.23:981][  0]LogFileCache: Scanning file cache for directory 'D:/HSE/2019-2020/Git_old/VillageForestBoi/Content/' took 0.01s
+[2019.11.12-21.02.23:981][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.12-21.02.23:981][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.12-21.02.27:810][  0]SourceControl: Source control is disabled
+[2019.11.12-21.02.27:835][  0]Cmd: MAP LOAD FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.12-21.02.27:835][  0]LogEditorServer: Warning: Can't find file '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.12-21.02.27:836][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.12-21.02.27:869][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 32,223ms to complete.
+[2019.11.12-21.02.27:869][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.036
+[2019.11.12-21.02.30:480][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.02.30:493][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.02.30:501][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.02.30:508][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.02.30:822][  0]LogCollectionManager: Loaded 0 collections in 0.001252 seconds
+[2019.11.12-21.02.31:060][  0]LogFileCache: Scanning file cache for directory 'D:/HSE/2019-2020/Git_old/VillageForestBoi/Saved/Collections/' took 0.00s
+[2019.11.12-21.02.31:060][  0]LogFileCache: Scanning file cache for directory 'D:/HSE/2019-2020/Git_old/VillageForestBoi/Content/Developers/Аня/Collections/' took 0.00s
+[2019.11.12-21.02.31:060][  0]LogFileCache: Scanning file cache for directory 'D:/HSE/2019-2020/Git_old/VillageForestBoi/Content/Collections/' took 0.00s
+[2019.11.12-21.02.31:060][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.11.12-21.02.31:080][  0]LogContentBrowser: Native class hierarchy populated in 0.0156 seconds. Added 2864 classes and 682 folders.
+[2019.11.12-21.02.31:266][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.12-21.02.33:180][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.12-21.02.34:675][  0]LogSlate: Took 0.016283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.12-21.02.34:854][  0]LogSlate: Took 0.022784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.12-21.02.34:896][  0]LogSlate: Took 0.025698 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.12-21.02.35:598][  0]LogRenderer: Reallocating scene render targets to support 1300x916 Format 10 NumSamples 1 (Frame:1).
+[2019.11.12-21.02.39:332][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0083 seconds. Added 0 classes and 0 folders.
+[2019.11.12-21.02.39:332][  0]LogLoad: (Engine Initialization) Total time: 140.12 seconds
+[2019.11.12-21.02.39:332][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.12-21.02.40:659][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.12-21.02.41:085][  0]LogSlate: Took 0.035988 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.12-21.02.41:722][  2]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.12-21.02.44:330][ 40]LogAssetRegistry: Asset discovery search completed in 69.8206 seconds
+[2019.11.12-21.02.44:368][ 40]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.009190 seconds (found 0 objects)
+[2019.11.12-21.02.44:368][ 40]LogCollectionManager: Fixed up redirectors for 0 collections in 0.009343 seconds (updated 0 objects)
+[2019.11.12-21.02.47:973][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-21.03.41:543][206]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Data/CraftingRecepies_DT.CraftingRecepies_DT
+[2019.11.12-21.03.55:310][964]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Data/Enums/States_E.States_E
+[2019.11.12-21.03.59:252][161]LogSlate: Window 'States_E' being destroyed
+[2019.11.12-21.06.29:570][ 80]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.06.29:570][ 80]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.08.57:265][ 30]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.08.57:265][ 30]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.09.03:036][368]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.09.03:036][368]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.09.39:985][578]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={AEBD40A8-42AF-761D-6101-7A8ABCED7DF2}
+[2019.11.12-21.09.39:985][578]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={4E3E396C-48C5-67D0-BCE3-DB9FA2B23CDA}
+[2019.11.12-21.09.50:955][906]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.09.50:955][906]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.09.53:404][ 39]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.09.53:404][ 39]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.10.43:553][486]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.10.43:553][486]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.10.47:541][707]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.10.47:541][707]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.12.06:742][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/Enums/States_E" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/Enums/States_E.uasset" SILENT=true
+[2019.11.12-21.12.08:290][418]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/States_E33B96A16470760C995032EB2BD7AC8B1.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/Enums/States_E.uasset'
+[2019.11.12-21.12.21:930][940]LogAIModule: Creating AISystem for world TestCraft_Map
+[2019.11.12-21.12.22:416][940]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TestCraft_Map.TestCraft_Map
+[2019.11.12-21.12.23:150][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.11.12-21.12.23:575][940]Cmd: MAP LOAD FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Maps/TestCraft_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.12-21.12.23:587][940]LightingResults: New page: Lighting Build
+[2019.11.12-21.12.23:717][940]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0091 seconds. Added 5 classes and 0 folders.
+[2019.11.12-21.12.23:720][940]LoadErrors: New page: Loading map: TestCraft_Map.umap
+[2019.11.12-21.12.23:739][940]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.12-21.12.23:793][940]MapCheck: New page: Map Check
+[2019.11.12-21.12.23:793][940]LightingResults: New page: Lighting Build
+[2019.11.12-21.12.24:044][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.11.12-21.12.24:691][940]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.12-21.12.24:751][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.11.12-21.12.24:872][940]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.12-21.12.24:873][940]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,767ms to complete.
+[2019.11.12-21.12.24:873][940]LogFileHelpers: Loading map 'TestCraft_Map' took 1.551
+[2019.11.12-21.13.35:553][741]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Data/Structures/CraftingRecepies_S.CraftingRecepies_S
+[2019.11.12-21.17.30:826][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CraftingRecepies_DT" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/CraftingRecepies_DT.uasset" SILENT=true
+[2019.11.12-21.17.30:861][798]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/CraftingRecepies_DTC9C524CF467667C444183A8514E84299.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/CraftingRecepies_DT.uasset'
+[2019.11.12-21.23.18:109][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.12-21.23.18:109][127]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestCraft_Map' took 0.037
+[2019.11.12-21.23.18:119][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data/CraftingRecepies_DT] ([1] browsable assets)...
+[2019.11.12-21.23.18:119][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/CraftingRecepies_DT]
+[2019.11.12-21.23.18:135][127]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/CraftingRecepies_DT_Auto17628B057461423F3320BB399A2B72EDF.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Autosaves/Game/Data/CraftingRecepies_DT_Auto1.uasset'
+[2019.11.12-21.23.18:146][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data/Structures/CraftingRecepies_S] ([1] browsable assets)...
+[2019.11.12-21.23.18:146][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/Structures/CraftingRecepies_S]
+[2019.11.12-21.23.18:173][127]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/CraftingRecepies_S_Auto17E9B64B54B38A961E286498117A09497.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Autosaves/Game/Data/Structures/CraftingRecepies_S_Auto1.uasset'
+[2019.11.12-21.23.18:175][127]LogFileHelpers: Auto-saving content packages took 0.065
+[2019.11.12-21.26.24:832][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.11.12-21.26.26:610][772]LogSlate: Window 'Save Content' being destroyed
+[2019.11.12-21.26.26:649][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CraftingRecepies_DT" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/CraftingRecepies_DT.uasset" SILENT=true
+[2019.11.12-21.26.26:735][772]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/CraftingRecepies_DT3E62274042D89075464110A72D506E43.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/CraftingRecepies_DT.uasset'
+[2019.11.12-21.26.26:742][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/Structures/CraftingRecepies_S" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/Structures/CraftingRecepies_S.uasset" SILENT=true
+[2019.11.12-21.26.26:755][772]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/CraftingRecepies_S6D331C1C48AB0E3593C6BEA0F9E5EC26.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/Structures/CraftingRecepies_S.uasset'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP_C' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP:setRefs.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP:takeInHand.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.SKEL_CraftGrass_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.SKEL_CraftGrass_BP_C:ReceiveActorOnClicked' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.SKEL_CraftGrass_BP_C:TestHand_Ref' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.SKEL_CraftGrass_BP_C:Attributes' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.SKEL_CraftGrass_BP_C:PC_Ref' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.SKEL_CraftGrass_BP_C:wasClicked' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.SKEL_CraftGrass_BP_C:FallTimeline' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.SKEL_CraftGrass_BP_C:StaticMesh' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.SKEL_CraftGrass_BP_C:Scene' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.SKEL_CraftGrass_BP_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.SKEL_CraftGrass_BP_C' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:782][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP_C:TestHand_Ref' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:783][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP_C:Attributes' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:783][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP_C:PC_Ref' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:783][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP_C:wasClicked' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:783][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP_C:FallTimeline' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:783][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP_C:StaticMesh' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:783][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP_C:Scene' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:783][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP_C:ReceiveActorOnClicked' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:783][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:783][ 74]LogMetaData: Removing '/Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/World/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.26.52:820][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/CraftGrass_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/CraftGrass_BP.uasset" SILENT=true
+[2019.11.12-21.26.52:882][ 74]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/CraftGrass_BP5AE604524E83FEF97F5954974073FBC9.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/CraftGrass_BP.uasset'
+[2019.11.12-21.26.52:888][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/CraftGrass_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/CraftGrass_BP.uasset" SILENT=true
+[2019.11.12-21.26.52:902][ 74]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/CraftGrass_BP2D15C8164B8D66C8CD017A953E749546.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/CraftGrass_BP.uasset'
+[2019.11.12-21.26.58:302][347]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/World/Grass/CraftGrass_BP.CraftGrass_BP
+[2019.11.12-21.26.59:700][347]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 121 classes and 0 folders.
+[2019.11.12-21.27.02:142][347]LogSlate: Took 0.026326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.12-21.27.02:620][348]LogSlate: Took 0.021963 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.12-21.28.00:635][698]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Data/Structures/Grass_S.Grass_S
+[2019.11.12-21.28.15:149][544]LogMetaData: Removing '/Game/Data/Structures/GrassAttributes_S.GrassAttributes_S' ref from Metadata '/Game/Data/Structures/Grass_S.PackageMetaData'
+[2019.11.12-21.28.15:150][544]LogMetaData: Removing '/Game/Data/Structures/GrassAttributes_S.GrassAttributes_S:Name_9_A9144FC24445DDEF0BD94487F3310FE1' ref from Metadata '/Game/Data/Structures/Grass_S.PackageMetaData'
+[2019.11.12-21.28.15:150][544]LogMetaData: Removing '/Game/Data/Structures/GrassAttributes_S.GrassAttributes_S:State_6_33D1AA714F325C883C3121823A95B217' ref from Metadata '/Game/Data/Structures/Grass_S.PackageMetaData'
+[2019.11.12-21.28.15:150][544]LogMetaData: Removing '/Game/Data/Structures/GrassAttributes_S.GrassAttributes_S:VisualForm_3_847BA6184DDADEF1224BE593327ACA95' ref from Metadata '/Game/Data/Structures/Grass_S.PackageMetaData'
+[2019.11.12-21.28.15:196][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/Structures/GrassAttributes_S" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/Structures/GrassAttributes_S.uasset" SILENT=true
+[2019.11.12-21.28.15:201][544]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/GrassAttributes_S1860598846CEE72221ECB298763DC1BF.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/Structures/GrassAttributes_S.uasset'
+[2019.11.12-21.28.15:472][544]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.11.12-21.28.15:513][544]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.11.12-21.28.15:548][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.12-21.28.15:590][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/CraftGrass_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/CraftGrass_BP.uasset" SILENT=true
+[2019.11.12-21.28.15:628][544]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/CraftGrass_BPE3802FCA4CCB66857B15518E34924CD7.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/CraftGrass_BP.uasset'
+[2019.11.12-21.28.20:719][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/Structures/GrassAttributes_S" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/Structures/GrassAttributes_S.uasset" SILENT=true
+[2019.11.12-21.28.20:753][834]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/GrassAttributes_S065E83B6455C902DF79F3FB22F459709.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/Structures/GrassAttributes_S.uasset'
+[2019.11.12-21.28.25:754][132]BlueprintLog: New page: Compile CraftGrass_BP
+[2019.11.12-21.28.26:463][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.11.12-21.28.59:270][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/CraftGrass_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/CraftGrass_BP.uasset" SILENT=true
+[2019.11.12-21.28.59:309][ 92]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/CraftGrass_BP1997F83848DF46D0A79E24B3B9EE6CE1.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/CraftGrass_BP.uasset'
+[2019.11.12-21.29.11:227][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.11.12-21.29.12:242][783]LogSlate: Window 'Save Content' being destroyed
+[2019.11.12-21.29.12:284][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generic/TestCraft_PC" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset" SILENT=true
+[2019.11.12-21.29.12:412][783]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_PC68E75D534253E4899C7E09B2BFECBC89.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset'
+[2019.11.12-21.29.12:476][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Bowl_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset" SILENT=true
+[2019.11.12-21.29.12:530][783]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Bowl_BPCDA445324D9E526650085D8816BE3474.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset'
+[2019.11.12-21.29.12:538][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestCraft_Map" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Maps/TestCraft_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.12-21.29.12:596][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.11.12-21.29.12:769][783]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_Map52216A934E3BC46C6869F8B561C2D2CD.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Maps/TestCraft_Map.umap'
+[2019.11.12-21.29.12:798][783]LogFileHelpers: Saving map 'TestCraft_Map' took 0.260
+[2019.11.12-21.29.22:317][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.11.12-21.29.22:410][305]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.11.12-21.29.22:423][305]LogMetaData: Removing '/Game/Blueprints/World/Grass/Grass_BP.Grass_BP_C' ref from Metadata '/Game/Blueprints/World/Grass/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.29.22:423][305]LogMetaData: Removing '/Game/Blueprints/World/Grass/Grass_BP.SKEL_Grass_BP_C' ref from Metadata '/Game/Blueprints/World/Grass/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.29.22:423][305]LogMetaData: Removing '/Game/Blueprints/World/Grass/Grass_BP.Grass_BP:setRefs.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/World/Grass/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.29.22:423][305]LogMetaData: Removing '/Game/Blueprints/World/Grass/Grass_BP.Grass_BP:takeInHand.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/World/Grass/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.29.22:423][305]LogMetaData: Removing '/Game/Blueprints/World/Grass/Grass_BP.Grass_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/World/Grass/CraftGrass_BP.PackageMetaData'
+[2019.11.12-21.29.22:457][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/Grass_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Grass_BP.uasset" SILENT=true
+[2019.11.12-21.29.22:512][305]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Grass_BPE5138D3E4BE4CE024E175599383C1751.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Grass_BP.uasset'
+[2019.11.12-21.29.22:520][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/CraftGrass_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/CraftGrass_BP.uasset" SILENT=true
+[2019.11.12-21.29.22:532][305]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/CraftGrass_BPFE12A82B467943982835179C090BC70E.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/CraftGrass_BP.uasset'
+[2019.11.12-21.29.23:243][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.11.12-21.29.24:661][343]LogSlate: Window 'Save Content' being destroyed
+[2019.11.12-21.29.24:699][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generic/TestCraft_PC" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset" SILENT=true
+[2019.11.12-21.29.24:786][343]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_PC5CA29B7447FB3B4D0288AEAC6A963336.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset'
+[2019.11.12-21.29.24:824][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Bowl_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset" SILENT=true
+[2019.11.12-21.29.24:854][343]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Bowl_BP5E12C9BA492519AD992625B99003F13D.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset'
+[2019.11.12-21.29.24:861][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestCraft_Map" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Maps/TestCraft_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.12-21.29.24:895][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.11.12-21.29.25:049][343]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_Map5F37C8FA4765E16009691396595553E9.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Maps/TestCraft_Map.umap'
+[2019.11.12-21.29.25:109][343]LogFileHelpers: Saving map 'TestCraft_Map' took 0.248
+[2019.11.12-21.30.07:770][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.11.12-21.30.09:017][838]LogSlate: Window 'Save Content' being destroyed
+[2019.11.12-21.30.09:055][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/Nechui-veter_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Nechui-veter_BP.uasset" SILENT=true
+[2019.11.12-21.30.09:065][838]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Nechui-veter_BP033AAF354C3A82C0A94B56BC500E5260.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Nechui-veter_BP.uasset'
+[2019.11.12-21.30.11:982][  7]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/World/Grass/Nechui-veter_BP.Nechui-veter_BP
+[2019.11.12-21.30.43:983][842]BlueprintLog: New page: Compile Grass_BP
+[2019.11.12-21.30.44:175][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.11.12-21.30.44:495][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/Grass_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Grass_BP.uasset" SILENT=true
+[2019.11.12-21.30.44:540][856]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Grass_BP330FDC474BDBD153BE57768788A8C3DA.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Grass_BP.uasset'
+[2019.11.12-21.31.03:021][956]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Data/Enums/GrassAppearance_E.GrassAppearance_E
+[2019.11.12-21.31.12:977][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/Enums/GrassAppearance_E" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/Enums/GrassAppearance_E.uasset" SILENT=true
+[2019.11.12-21.31.12:990][549]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/GrassAppearance_E8B8DE82B4E1EB16FE5E3848ACED254B1.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/Enums/GrassAppearance_E.uasset'
+[2019.11.12-21.31.56:244][108]BlueprintLog: New page: Compile Nechui-veter_BP
+[2019.11.12-21.31.56:412][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.11.12-21.31.56:895][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/Nechui-veter_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Nechui-veter_BP.uasset" SILENT=true
+[2019.11.12-21.31.56:915][134]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Nechui-veter_BP80991B564B919F51149111BB07AC3FE4.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Nechui-veter_BP.uasset'
+[2019.11.12-21.32.30:655][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CraftingRecepies_DT" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/CraftingRecepies_DT.uasset" SILENT=true
+[2019.11.12-21.32.30:670][123]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/CraftingRecepies_DTD60A26364B4D9BFE736D7A84EB127190.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/CraftingRecepies_DT.uasset'
+[2019.11.12-21.32.41:521][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.11.12-21.32.42:278][766]LogSlate: Window 'Save Content' being destroyed
+[2019.11.12-21.32.42:315][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/Grass_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Grass_BP.uasset" SILENT=true
+[2019.11.12-21.32.42:358][766]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Grass_BPEB4B3A61496D4EC686138B9B58C8BAD5.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Grass_BP.uasset'
+[2019.11.12-21.32.42:365][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/Son-trava_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Son-trava_BP.uasset" SILENT=true
+[2019.11.12-21.32.42:373][766]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Son-trava_BP9CCE3B76448B824F98541AB05F93E4EF.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Son-trava_BP.uasset'
+[2019.11.12-21.32.42:380][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestCraft_Map" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Maps/TestCraft_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.12-21.32.42:415][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.12-21.32.42:574][766]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_MapAA631EEF4E1C0A3742A81D89EFA1CB85.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Maps/TestCraft_Map.umap'
+[2019.11.12-21.32.42:597][766]LogFileHelpers: Saving map 'TestCraft_Map' took 0.218
+[2019.11.12-21.32.47:609][ 64]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/World/Grass/Son-trava_BP.Son-trava_BP
+[2019.11.12-21.33.01:421][839]BlueprintLog: New page: Compile Son-trava_BP
+[2019.11.12-21.33.01:614][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.11.12-21.33.02:315][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/Son-trava_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Son-trava_BP.uasset" SILENT=true
+[2019.11.12-21.33.02:339][870]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Son-trava_BP18EDFFA540099EC8362E78AC16AA796D.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Son-trava_BP.uasset'
+[2019.11.12-21.33.27:880][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.11.12-21.33.29:134][991]LogSlate: Window 'Save Content' being destroyed
+[2019.11.12-21.33.29:171][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/Chesnok-trava_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Chesnok-trava_BP.uasset" SILENT=true
+[2019.11.12-21.33.29:190][991]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Chesnok-trava_BP9E2577BF42942FC3A626E2BEF48E5FD4.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Chesnok-trava_BP.uasset'
+[2019.11.12-21.33.40:689][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.11.12-21.33.40:772][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.11.12-21.33.40:960][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.11.12-21.33.41:136][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.11.12-21.33.41:179][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.11.12-21.33.41:180][667]LogMetaData: Removing '/Game/Blueprints/World/Grass/GrassBase_BP.GrassBase_BP_C' ref from Metadata '/Game/Blueprints/World/Grass/Grass_BP.PackageMetaData'
+[2019.11.12-21.33.41:180][667]LogMetaData: Removing '/Game/Blueprints/World/Grass/GrassBase_BP.SKEL_GrassBase_BP_C' ref from Metadata '/Game/Blueprints/World/Grass/Grass_BP.PackageMetaData'
+[2019.11.12-21.33.41:180][667]LogMetaData: Removing '/Game/Blueprints/World/Grass/GrassBase_BP.GrassBase_BP:setRefs.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/World/Grass/Grass_BP.PackageMetaData'
+[2019.11.12-21.33.41:180][667]LogMetaData: Removing '/Game/Blueprints/World/Grass/GrassBase_BP.GrassBase_BP:takeInHand.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/World/Grass/Grass_BP.PackageMetaData'
+[2019.11.12-21.33.41:180][667]LogMetaData: Removing '/Game/Blueprints/World/Grass/GrassBase_BP.GrassBase_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/World/Grass/Grass_BP.PackageMetaData'
+[2019.11.12-21.33.41:216][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/GrassBase_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/GrassBase_BP.uasset" SILENT=true
+[2019.11.12-21.33.41:250][667]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/GrassBase_BP4414BB6E4210F2D8317806AFD51D642C.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/GrassBase_BP.uasset'
+[2019.11.12-21.33.41:258][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/Grass_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Grass_BP.uasset" SILENT=true
+[2019.11.12-21.33.41:270][667]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Grass_BPD0FF361E404B62DACA746AAF8C727235.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Grass_BP.uasset'
+[2019.11.12-21.33.41:832][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.11.12-21.33.43:018][696]LogSlate: Window 'Save Content' being destroyed
+[2019.11.12-21.33.43:053][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generic/TestCraft_PC" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset" SILENT=true
+[2019.11.12-21.33.43:136][696]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_PC7108F8314241466F20D25DA4FB64B896.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset'
+[2019.11.12-21.33.43:173][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Bowl_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset" SILENT=true
+[2019.11.12-21.33.43:210][696]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Bowl_BP538141744E3B05100E23C1B11F8DFB7F.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset'
+[2019.11.12-21.33.43:216][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/Chesnok-trava_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Chesnok-trava_BP.uasset" SILENT=true
+[2019.11.12-21.33.43:268][696]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Chesnok-trava_BP1D3638EE475E3DEF1A61E5B8F16046B9.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Chesnok-trava_BP.uasset'
+[2019.11.12-21.33.43:273][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/Nechui-veter_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Nechui-veter_BP.uasset" SILENT=true
+[2019.11.12-21.33.43:290][696]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Nechui-veter_BP20342A3A4A638BBC8305E9B40763E7F6.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Nechui-veter_BP.uasset'
+[2019.11.12-21.33.43:296][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/Son-trava_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Son-trava_BP.uasset" SILENT=true
+[2019.11.12-21.33.43:315][696]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Son-trava_BP4C6F03FF440BAF7FDA79F9A9C38D5650.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/Son-trava_BP.uasset'
+[2019.11.12-21.33.43:413][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestCraft_Map" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Maps/TestCraft_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.12-21.33.43:458][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.11.12-21.33.43:615][696]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_Map31B10B8641EB879F0164F9BFB22B71FE.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Maps/TestCraft_Map.umap'
+[2019.11.12-21.33.43:637][696]LogFileHelpers: Saving map 'TestCraft_Map' took 0.224
+[2019.11.12-21.34.58:770][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CraftingRecepies_DT" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/CraftingRecepies_DT.uasset" SILENT=true
+[2019.11.12-21.34.58:786][173]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/CraftingRecepies_DT090EE68644F65B702EFF7CBE46F987E2.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/CraftingRecepies_DT.uasset'
+[2019.11.12-21.35.06:060][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.11.12-21.35.07:712][607]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.12-21.35.07:918][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.11.12-21.35.07:959][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.11.12-21.35.07:993][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.11.12-21.35.08:756][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.12-21.35.22:470][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CraftingRecepies_DT" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/CraftingRecepies_DT.uasset" SILENT=true
+[2019.11.12-21.35.22:483][473]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/CraftingRecepies_DTDCD22B97483F8B8F9764B8A7A26AABB2.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/CraftingRecepies_DT.uasset'
+[2019.11.12-21.37.00:264][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/Structures/CraftingRecepies_S" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/Structures/CraftingRecepies_S.uasset" SILENT=true
+[2019.11.12-21.37.00:278][337]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/CraftingRecepies_S487E6C1748FFF6AD785BBCA8808872EF.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Data/Structures/CraftingRecepies_S.uasset'
+[2019.11.12-21.37.21:497][601]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.12-21.37.21:530][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.37.21:546][601]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.12-21.37.21:554][601]LogPlayLevel: [PlayLevel] Compiling TestCraft_PC before play...
+[2019.11.12-21.37.21:585][601]LogPlayLevel: [PlayLevel] Compiling Bowl_BP before play...
+[2019.11.12-21.37.21:732][601]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2019.11.12-21.37.21:773][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.11.12-21.37.21:773][601]LogPlayLevel: PlayLevel: Blueprint regeneration took 226 ms (3 blueprints)
+[2019.11.12-21.37.21:792][601]PIE: New page: PIE session: TestCraft_Map (13 нояб. 2019 г., 3:37:21)
+[2019.11.12-21.37.21:867][601]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.12-21.37.21:892][601]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestCraft_Map
+[2019.11.12-21.37.21:943][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051582s)
+[2019.11.12-21.37.21:957][601]LogAIModule: Creating AISystem for world TestCraft_Map
+[2019.11.12-21.37.21:957][601]LogPlayLevel: PIE: World Init took: (0.014460s)
+[2019.11.12-21.37.21:957][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestCraft_Map.TestCraft_Map to /Game/Maps/UEDPIE_0_TestCraft_Map.TestCraft_Map (0.066354s)
+[2019.11.12-21.37.21:998][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.11.12-21.37.22:032][601]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-21.37.22:066][601]LogInit: FAudioDevice initialized.
+[2019.11.12-21.37.22:097][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.37.22:117][601]LogLoad: Game class is 'TestCraft_GM_C'
+[2019.11.12-21.37.22:225][601]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestCraft_Map.TestCraft_Map up for play (max tick rate 60) at 2019.11.13-00.37.22
+[2019.11.12-21.37.22:248][601]LogWorld: Bringing up level for play took: 0.022556
+[2019.11.12-21.37.22:250][601]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.11.12-21.37.22:369][601]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.11.12-21.37.22:572][601]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestCraft_Map 1,337
+[2019.11.12-21.37.22:573][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.37.25:310][698]LogBlueprintUserMessages: [CraftGrass_2] Was taken
+[2019.11.12-21.37.25:420][703]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.37.25:420][703]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.37.25:421][703]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.37.26:615][757]LogBlueprintUserMessages: [CraftGrass_2] Was taken
+[2019.11.12-21.37.29:766][899]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.37.29:852][899]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.37.31:299][966]LogBlueprintUserMessages: [CraftGrass2_5] Was taken
+[2019.11.12-21.37.31:587][979]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.37.31:587][979]LogBlueprintUserMessages: [CraftGrass2_5] Was dropped
+[2019.11.12-21.37.31:587][979]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.37.33:700][ 73]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.37.33:700][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.37.33:700][ 73]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestCraft_Map
+[2019.11.12-21.37.33:725][ 73]LogSlate: Window 'TestMechanics Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.12-21.37.33:747][ 73]LogWorld: UWorld::CleanupWorld for TestCraft_Map, bSessionEnded=true, bCleanupResources=true
+[2019.11.12-21.37.33:768][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-21.37.33:768][ 73]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.37.33:925][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2019.11.12-21.37.33:934][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.11.12-21.37.41:200][497]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/World/Bowl_BP.Bowl_BP
+[2019.11.12-21.38.01:093][586]BlueprintLog: New page: Compile Bowl_BP
+[2019.11.12-21.38.01:353][586]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.11.12-21.38.01:562][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Bowl_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset" SILENT=true
+[2019.11.12-21.38.01:609][594]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Bowl_BP27E97BC7444B7F317EC371B6E995BA8F.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset'
+[2019.11.12-21.38.08:401][988]LogEditorViewport: Clicking on Actor (LMB): GrassBase_BP_C (CraftGrass)
+[2019.11.12-21.38.14:032][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-21.38.17:733][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-21.38.21:786][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-21.38.22:673][719]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.12-21.38.22:697][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.38.22:697][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-21.38.22:697][719]PIE: New page: PIE session: TestCraft_Map (13 нояб. 2019 г., 3:38:22)
+[2019.11.12-21.38.22:697][719]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestCraft_Map
+[2019.11.12-21.38.22:699][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001883s)
+[2019.11.12-21.38.22:700][719]LogAIModule: Creating AISystem for world TestCraft_Map
+[2019.11.12-21.38.22:700][719]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2019.11.12-21.38.22:700][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestCraft_Map.TestCraft_Map to /Game/Maps/UEDPIE_0_TestCraft_Map.TestCraft_Map (0.002911s)
+[2019.11.12-21.38.22:747][719]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.11.12-21.38.22:754][719]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-21.38.22:774][719]LogInit: FAudioDevice initialized.
+[2019.11.12-21.38.22:776][719]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.12-21.38.22:792][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.38.22:792][719]LogLoad: Game class is 'TestCraft_GM_C'
+[2019.11.12-21.38.22:794][719]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestCraft_Map.TestCraft_Map up for play (max tick rate 60) at 2019.11.13-00.38.22
+[2019.11.12-21.38.22:795][719]LogWorld: Bringing up level for play took: 0.001706
+[2019.11.12-21.38.22:795][719]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.11.12-21.38.22:800][719]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestCraft_Map -0,436
+[2019.11.12-21.38.22:801][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.38.24:248][783]LogBlueprintUserMessages: [Nechui-veter_BP_2] Was taken
+[2019.11.12-21.38.25:847][855]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.38.25:848][855]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.38.26:979][906]LogBlueprintUserMessages: [Son-trava_BP_2] Was taken
+[2019.11.12-21.38.27:735][940]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.38.27:735][940]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.38.32:350][148]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.38.33:396][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.38.33:397][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.38.33:397][195]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestCraft_Map
+[2019.11.12-21.38.33:411][195]LogSlate: Window 'TestMechanics Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.12-21.38.33:446][195]LogWorld: UWorld::CleanupWorld for TestCraft_Map, bSessionEnded=true, bCleanupResources=true
+[2019.11.12-21.38.33:480][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-21.38.33:480][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.38.33:544][195]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2019.11.12-21.38.33:554][196]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.11.12-21.38.34:687][263]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-21.38.37:229][408]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.12-21.38.37:240][408]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.38.37:240][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-21.38.37:240][408]PIE: New page: PIE session: TestCraft_Map (13 нояб. 2019 г., 3:38:37)
+[2019.11.12-21.38.37:240][408]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestCraft_Map
+[2019.11.12-21.38.37:243][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004035s)
+[2019.11.12-21.38.37:244][408]LogAIModule: Creating AISystem for world TestCraft_Map
+[2019.11.12-21.38.37:245][408]LogPlayLevel: PIE: World Init took: (0.002111s)
+[2019.11.12-21.38.37:245][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestCraft_Map.TestCraft_Map to /Game/Maps/UEDPIE_0_TestCraft_Map.TestCraft_Map (0.006310s)
+[2019.11.12-21.38.37:289][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.11.12-21.38.37:294][408]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-21.38.37:317][408]LogInit: FAudioDevice initialized.
+[2019.11.12-21.38.37:320][408]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.12-21.38.37:331][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.38.37:331][408]LogLoad: Game class is 'TestCraft_GM_C'
+[2019.11.12-21.38.37:333][408]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestCraft_Map.TestCraft_Map up for play (max tick rate 60) at 2019.11.13-00.38.37
+[2019.11.12-21.38.37:334][408]LogWorld: Bringing up level for play took: 0.002346
+[2019.11.12-21.38.37:334][408]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.11.12-21.38.37:340][408]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestCraft_Map 0,104
+[2019.11.12-21.38.37:340][408]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.38.38:371][454]LogBlueprintUserMessages: [CraftGrass_2] Was taken
+[2019.11.12-21.38.39:703][514]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.38.39:703][514]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.38.39:703][514]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.38.40:948][570]LogBlueprintUserMessages: [Nechui-veter_BP_2] Was taken
+[2019.11.12-21.38.42:615][645]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.38.42:615][645]LogBlueprintUserMessages: [Nechui-veter_BP_2] Was dropped
+[2019.11.12-21.38.42:615][645]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.38.46:858][836]LogBlueprintUserMessages: [Nechui-veter_BP_2] Was taken
+[2019.11.12-21.38.48:458][908]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.38.48:458][908]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.38.49:770][967]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.38.49:770][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.38.49:771][967]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestCraft_Map
+[2019.11.12-21.38.49:785][967]LogSlate: Window 'TestMechanics Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.12-21.38.49:820][967]LogWorld: UWorld::CleanupWorld for TestCraft_Map, bSessionEnded=true, bCleanupResources=true
+[2019.11.12-21.38.49:857][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-21.38.49:858][967]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.38.49:923][967]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2019.11.12-21.38.49:933][968]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.11.12-21.38.56:367][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-21.39.04:203][797]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.12-21.39.04:759][822]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.12-21.39.04:759][822]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.12-21.39.10:887][180]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Generic/TestCraft_PC.TestCraft_PC
+[2019.11.12-21.40.02:397][ 91]BlueprintLog: New page: Compile TestCraft_PC
+[2019.11.12-21.40.02:695][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.11.12-21.40.03:048][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generic/TestCraft_PC" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset" SILENT=true
+[2019.11.12-21.40.03:130][105]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_PC81E8A9CE4CD3C963443939AFD35D2507.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset'
+[2019.11.12-21.40.17:294][943]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.11.12-21.40.19:021][943]LogSlate: Window 'Save Content' being destroyed
+[2019.11.12-21.40.19:047][943]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.12-21.40.19:062][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestCraft_Map" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Maps/TestCraft_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.12-21.40.19:107][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.11.12-21.40.19:381][943]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_Map5A6BE1C74AC236FE3C92F0B671009719.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Maps/TestCraft_Map.umap'
+[2019.11.12-21.40.19:407][943]LogFileHelpers: Saving map 'TestCraft_Map' took 0.345
+[2019.11.12-21.40.38:686][ 58]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.11.12-21.42.19:659][352]LogRenderer: Reallocating scene render targets to support 1300x944 Format 10 NumSamples 1 (Frame:319).
+[2019.11.12-21.43.05:364][487]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.43.05:364][487]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.46.40:219][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-21.48.15:275][764]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.12-21.48.15:486][764]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.48.15:493][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-21.48.15:516][764]PIE: New page: PIE session: TestCraft_Map (13 нояб. 2019 г., 3:48:15)
+[2019.11.12-21.48.15:530][764]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestCraft_Map
+[2019.11.12-21.48.15:633][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102618s)
+[2019.11.12-21.48.15:772][764]LogAIModule: Creating AISystem for world TestCraft_Map
+[2019.11.12-21.48.15:819][764]LogPlayLevel: PIE: World Init took: (0.185449s)
+[2019.11.12-21.48.15:819][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestCraft_Map.TestCraft_Map to /Game/Maps/UEDPIE_0_TestCraft_Map.TestCraft_Map (0.288300s)
+[2019.11.12-21.48.16:024][764]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2019.11.12-21.48.16:093][764]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-21.48.16:121][764]LogInit: FAudioDevice initialized.
+[2019.11.12-21.48.16:173][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.48.16:174][764]LogLoad: Game class is 'TestCraft_GM_C'
+[2019.11.12-21.48.16:278][764]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestCraft_Map.TestCraft_Map up for play (max tick rate 60) at 2019.11.13-00.48.16
+[2019.11.12-21.48.16:294][764]LogWorld: Bringing up level for play took: 0.108082
+[2019.11.12-21.48.16:324][764]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.11.12-21.48.16:446][764]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestCraft_Map 1,216
+[2019.11.12-21.48.16:459][764]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.48.17:903][822]LogBlueprintUserMessages: [CraftGrass_2] Was taken
+[2019.11.12-21.48.19:257][883]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.48.19:257][883]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.48.24:325][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.48.24:429][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.48.24:429][109]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestCraft_Map
+[2019.11.12-21.48.24:449][109]LogSlate: Window 'TestMechanics Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.12-21.48.24:455][109]LogWorld: UWorld::CleanupWorld for TestCraft_Map, bSessionEnded=true, bCleanupResources=true
+[2019.11.12-21.48.24:643][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-21.48.24:643][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.48.24:697][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.11.12-21.48.24:707][110]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.11.12-21.49.27:384][772]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.49.27:384][772]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.49.33:230][105]BlueprintLog: New page: Compile GrassBase_BP
+[2019.11.12-21.49.34:185][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.11.12-21.49.34:372][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/GrassBase_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/GrassBase_BP.uasset" SILENT=true
+[2019.11.12-21.49.34:823][105]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/GrassBase_BPA971EE0C4E72968FCBB5248A0A146D16.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/GrassBase_BP.uasset'
+[2019.11.12-21.49.46:463][792]BlueprintLog: New page: Compile TestCraft_PC
+[2019.11.12-21.49.46:706][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.11.12-21.49.46:940][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generic/TestCraft_PC" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset" SILENT=true
+[2019.11.12-21.49.47:080][799]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_PCFCC0E64048CF45E294B818B28754953A.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset'
+[2019.11.12-21.49.48:157][859]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.12-21.49.48:174][859]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.49.48:174][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-21.49.48:174][859]PIE: New page: PIE session: TestCraft_Map (13 нояб. 2019 г., 3:49:48)
+[2019.11.12-21.49.48:174][859]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestCraft_Map
+[2019.11.12-21.49.48:176][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001854s)
+[2019.11.12-21.49.48:177][859]LogAIModule: Creating AISystem for world TestCraft_Map
+[2019.11.12-21.49.48:177][859]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2019.11.12-21.49.48:177][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestCraft_Map.TestCraft_Map to /Game/Maps/UEDPIE_0_TestCraft_Map.TestCraft_Map (0.002963s)
+[2019.11.12-21.49.48:220][859]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.11.12-21.49.48:226][859]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-21.49.48:247][859]LogInit: FAudioDevice initialized.
+[2019.11.12-21.49.48:258][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.49.48:259][859]LogLoad: Game class is 'TestCraft_GM_C'
+[2019.11.12-21.49.48:263][859]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestCraft_Map.TestCraft_Map up for play (max tick rate 60) at 2019.11.13-00.49.48
+[2019.11.12-21.49.48:263][859]LogWorld: Bringing up level for play took: 0.003420
+[2019.11.12-21.49.48:263][859]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.11.12-21.49.48:275][859]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestCraft_Map 1,045
+[2019.11.12-21.49.48:275][859]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.49.49:766][921]LogBlueprintUserMessages: [CraftGrass_2] Was taken
+[2019.11.12-21.49.50:686][960]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.49.50:686][960]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.50:687][960]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.49.50:687][960]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.50:709][961]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.50:732][962]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.50:756][963]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.50:779][964]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.50:803][965]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.50:829][966]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.50:851][967]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.50:874][968]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.50:898][969]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.50:928][970]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.50:947][971]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.50:969][972]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.50:993][973]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:016][974]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:040][975]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:063][976]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:087][977]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:111][978]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:134][979]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:157][980]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:181][981]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:205][982]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:230][983]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:252][984]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:276][985]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:300][986]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:323][987]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:348][988]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:370][989]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:395][990]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:418][991]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:442][992]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:465][993]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:489][994]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:514][995]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:537][996]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:562][997]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:585][998]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:609][999]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:632][  0]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:656][  1]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.51:681][  2]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.49.52:908][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.49.52:909][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.49.52:909][ 54]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestCraft_Map
+[2019.11.12-21.49.52:926][ 54]LogSlate: Window 'TestMechanics Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.12-21.49.52:964][ 54]LogWorld: UWorld::CleanupWorld for TestCraft_Map, bSessionEnded=true, bCleanupResources=true
+[2019.11.12-21.49.52:981][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-21.49.52:981][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.49.53:053][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.11.12-21.49.53:062][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.12-21.50.10:092][ 67]BlueprintLog: New page: Compile GrassBase_BP
+[2019.11.12-21.50.10:369][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.11.12-21.50.10:792][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/GrassBase_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/GrassBase_BP.uasset" SILENT=true
+[2019.11.12-21.50.10:838][ 87]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/GrassBase_BP361249C64AAAF0054DED559915B8177E.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/GrassBase_BP.uasset'
+[2019.11.12-21.50.11:875][148]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.12-21.50.11:893][148]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.50.11:893][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-21.50.11:893][148]PIE: New page: PIE session: TestCraft_Map (13 нояб. 2019 г., 3:50:11)
+[2019.11.12-21.50.11:893][148]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestCraft_Map
+[2019.11.12-21.50.11:895][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001853s)
+[2019.11.12-21.50.11:896][148]LogAIModule: Creating AISystem for world TestCraft_Map
+[2019.11.12-21.50.11:896][148]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2019.11.12-21.50.11:896][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestCraft_Map.TestCraft_Map to /Game/Maps/UEDPIE_0_TestCraft_Map.TestCraft_Map (0.002993s)
+[2019.11.12-21.50.11:941][148]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.11.12-21.50.11:946][148]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-21.50.11:966][148]LogInit: FAudioDevice initialized.
+[2019.11.12-21.50.11:979][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.50.11:979][148]LogLoad: Game class is 'TestCraft_GM_C'
+[2019.11.12-21.50.11:981][148]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestCraft_Map.TestCraft_Map up for play (max tick rate 60) at 2019.11.13-00.50.11
+[2019.11.12-21.50.11:981][148]LogWorld: Bringing up level for play took: 0.001600
+[2019.11.12-21.50.11:981][148]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.11.12-21.50.11:987][148]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestCraft_Map 0,758
+[2019.11.12-21.50.11:988][148]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.50.12:685][177]LogBlueprintUserMessages: [CraftGrass_2] Was taken
+[2019.11.12-21.50.13:367][206]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.50.13:367][206]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.50.14:357][248]LogBlueprintUserMessages: [CraftGrass_2] Was dropped
+[2019.11.12-21.50.16:028][319]LogBlueprintUserMessages: [CraftGrass2_5] Was taken
+[2019.11.12-21.50.18:689][432]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.50.18:689][432]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.50.19:674][474]LogBlueprintUserMessages: [CraftGrass2_5] Was dropped
+[2019.11.12-21.50.20:449][507]LogBlueprintUserMessages: [Son-trava_BP_2] Was taken
+[2019.11.12-21.50.21:551][554]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.50.21:551][554]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.50.22:538][596]LogBlueprintUserMessages: [Son-trava_BP_2] Was dropped
+[2019.11.12-21.50.23:819][649]LogBlueprintUserMessages: [Nechui-veter_BP_2] Was taken
+[2019.11.12-21.50.26:480][763]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.50.26:480][763]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.50.27:466][805]LogBlueprintUserMessages: [Nechui-veter_BP_2] Was dropped
+[2019.11.12-21.50.28:972][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.50.28:973][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.50.28:973][869]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestCraft_Map
+[2019.11.12-21.50.28:990][869]LogSlate: Window 'TestMechanics Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.12-21.50.29:024][869]LogWorld: UWorld::CleanupWorld for TestCraft_Map, bSessionEnded=true, bCleanupResources=true
+[2019.11.12-21.50.29:048][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-21.50.29:048][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.50.29:113][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.11.12-21.50.29:124][870]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.12-21.50.30:270][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.11.12-21.50.31:014][936]LogSlate: Window 'Save Content' being destroyed
+[2019.11.12-21.50.31:048][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestCraft_Map" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Maps/TestCraft_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.12-21.50.31:091][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.11.12-21.50.31:343][936]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_Map8388148A46EF5CAFAA3F029A72624706.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Maps/TestCraft_Map.umap'
+[2019.11.12-21.50.31:380][936]LogFileHelpers: Saving map 'TestCraft_Map' took 0.332
+[2019.11.12-21.50.56:372][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/GrassBase_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/GrassBase_BP.uasset" SILENT=true
+[2019.11.12-21.50.56:414][413]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/GrassBase_BP923EA64D4835A4D137297CB40A417511.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/GrassBase_BP.uasset'
+[2019.11.12-21.52.18:150][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generic/TestCraft_PC" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset" SILENT=true
+[2019.11.12-21.52.18:238][266]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_PC1F82429B4F47625B00085AB0F18C3E7C.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset'
+[2019.11.12-21.52.32:505][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generic/TestCraft_PC" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset" SILENT=true
+[2019.11.12-21.52.32:690][120]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_PCE4DD709C44D8CDD54D2D158DD50ADE0E.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset'
+[2019.11.12-21.52.47:302][994]BlueprintLog: New page: Compile Bowl_BP
+[2019.11.12-21.52.47:654][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.11.12-21.52.47:761][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Bowl_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset" SILENT=true
+[2019.11.12-21.52.47:828][994]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Bowl_BP63C20A8E44E194DF066C6287DC2AD5E6.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset'
+[2019.11.12-21.52.48:273][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Bowl_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset" SILENT=true
+[2019.11.12-21.52.48:298][ 18]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Bowl_BP8631040B40F044F066814FB9C40A15F2.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset'
+[2019.11.12-21.53.23:057][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Grass/GrassBase_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/GrassBase_BP.uasset" SILENT=true
+[2019.11.12-21.53.23:103][ 82]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/GrassBase_BP822C910F46B0DE735502F98C935C8D41.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Grass/GrassBase_BP.uasset'
+[2019.11.12-21.56.29:321][708]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.56.29:321][708]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.56.33:059][925]BlueprintLog: New page: Compile Bowl_BP
+[2019.11.12-21.56.33:621][925]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2019.11.12-21.56.34:231][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Bowl_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset" SILENT=true
+[2019.11.12-21.56.34:262][956]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Bowl_BP725F0D2B493159978A3BA5B61E596156.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset'
+[2019.11.12-21.56.39:872][292]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.12-21.56.39:888][292]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.56.39:888][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-21.56.39:888][292]PIE: New page: PIE session: TestCraft_Map (13 нояб. 2019 г., 3:56:39)
+[2019.11.12-21.56.39:888][292]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestCraft_Map
+[2019.11.12-21.56.39:890][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001774s)
+[2019.11.12-21.56.39:891][292]LogAIModule: Creating AISystem for world TestCraft_Map
+[2019.11.12-21.56.39:891][292]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2019.11.12-21.56.39:891][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestCraft_Map.TestCraft_Map to /Game/Maps/UEDPIE_0_TestCraft_Map.TestCraft_Map (0.002889s)
+[2019.11.12-21.56.39:936][292]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.11.12-21.56.39:942][292]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-21.56.39:963][292]LogInit: FAudioDevice initialized.
+[2019.11.12-21.56.39:976][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.56.39:976][292]LogLoad: Game class is 'TestCraft_GM_C'
+[2019.11.12-21.56.39:978][292]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestCraft_Map.TestCraft_Map up for play (max tick rate 60) at 2019.11.13-00.56.39
+[2019.11.12-21.56.39:978][292]LogWorld: Bringing up level for play took: 0.001334
+[2019.11.12-21.56.39:979][292]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.11.12-21.56.39:985][292]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestCraft_Map 0,755
+[2019.11.12-21.56.39:985][292]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.56.41:465][355]LogBlueprintUserMessages: [Nechui-veter_BP_2] Was taken
+[2019.11.12-21.56.42:147][384]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.56.42:147][384]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.56.43:135][426]LogBlueprintUserMessages: [Nechui-veter_BP_2] Was dropped
+[2019.11.12-21.56.44:078][466]LogBlueprintUserMessages: [Son-trava_BP_2] Was taken
+[2019.11.12-21.56.44:570][487]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.56.44:570][487]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.56.45:561][529]LogBlueprintUserMessages: [Son-trava_BP_2] Was dropped
+[2019.11.12-21.56.46:195][556]LogBlueprintUserMessages: [Son-trava_BP_2] Was taken
+[2019.11.12-21.56.47:396][575]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.56.47:397][575]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.56.48:395][588]LogBlueprintUserMessages: [Son-trava_BP_2] Was dropped
+[2019.11.12-21.56.48:956][596]LogBlueprintUserMessages: [Nechui-veter_BP_2] Was taken
+[2019.11.12-21.56.50:362][618]LogBlueprintUserMessages: [TestCraft_PC_C_0] Released
+[2019.11.12-21.56.50:363][618]LogBlueprintUserMessages: [TestCraft_PC_C_0] Nothing is selected rn
+[2019.11.12-21.56.51:353][660]LogBlueprintUserMessages: [Nechui-veter_BP_2] Was dropped
+[2019.11.12-21.56.53:567][754]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.56.53:567][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.56.53:567][754]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestCraft_Map
+[2019.11.12-21.56.53:593][754]LogSlate: Window 'TestMechanics Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.12-21.56.53:621][754]LogWorld: UWorld::CleanupWorld for TestCraft_Map, bSessionEnded=true, bCleanupResources=true
+[2019.11.12-21.56.53:657][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-21.56.53:658][754]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map' with GeneratedClass '/Game/Maps/TestCraft_Map.TestCraft_Map_C' with ClassGeneratedBy '/Game/Maps/TestCraft_Map.TestCraft_Map:PersistentLevel.TestCraft_Map'
+[2019.11.12-21.56.53:739][754]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2019.11.12-21.56.53:752][755]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.12-21.57.15:718][ 47]BlueprintLog: New page: Collapse to Function
+[2019.11.12-21.57.19:725][273]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.57.19:725][273]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.57.39:051][388]BlueprintLog: New page: Compile Bowl_BP
+[2019.11.12-21.57.39:057][388]LogBlueprint: Error: [Compiler Bowl_BP] In use pin  Self 2  no longer exists on node  Show Grass Name . Please refresh node or break links to remove pin.
+[2019.11.12-21.57.39:368][388]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.11.12-21.57.39:734][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Bowl_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset" SILENT=true
+[2019.11.12-21.57.39:765][400]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Bowl_BPA09C6D414C7F9769000EA9BF3D8BFBBB.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset'
+[2019.11.12-21.57.48:641][932]BlueprintLog: New page: Compile Bowl_BP
+[2019.11.12-21.57.48:873][932]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.11.12-21.57.49:380][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Bowl_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset" SILENT=true
+[2019.11.12-21.57.49:423][953]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Bowl_BP6F7F5D6B46B44E74AF7D72AC94CED554.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset'
+[2019.11.12-21.58.10:525][875]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.58.10:525][875]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.58.12:445][986]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.58.12:445][986]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-21.58.45:666][964]BlueprintLog: New page: Compile Bowl_BP
+[2019.11.12-21.58.45:900][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.11.12-21.59.14:240][622]LogSlate: Took 0.056880 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.12-21.59.16:470][754]BlueprintLog: New page: Compile Bowl_BP
+[2019.11.12-21.59.16:478][754]LogClass: Warning: Type mismatch in AmountOfGrassInBowl of Bowl_BP_C - Previous (BoolProperty) Current(IntProperty) for package:  FObjectReader
+[2019.11.12-21.59.16:705][754]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.11.12-21.59.17:408][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Bowl_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset" SILENT=true
+[2019.11.12-21.59.17:443][783]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Bowl_BP346F0A334C94042B3688F1881E10F8AC.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset'
+[2019.11.12-21.59.56:263][ 73]BlueprintLog: New page: Compile Bowl_BP
+[2019.11.12-21.59.56:496][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.11.12-21.59.57:000][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Bowl_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset" SILENT=true
+[2019.11.12-21.59.57:040][ 98]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Bowl_BP866BEE5243CF71C260E8C68ED33B7563.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset'
+[2019.11.12-22.02.17:271][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generic/TestCraft_PC" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset" SILENT=true
+[2019.11.12-22.02.17:364][478]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_PC6C994B944A992D21BA58A4B589A21DC4.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset'
+[2019.11.12-22.02.56:420][814]BlueprintLog: New page: Compile TestCraft_PC
+[2019.11.12-22.02.56:672][814]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2019.11.12-22.02.57:107][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generic/TestCraft_PC" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset" SILENT=true
+[2019.11.12-22.02.57:198][833]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_PC0674584640E188315AD63680B792E8B5.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset'
+[2019.11.12-22.03.42:676][515]BlueprintLog: New page: Compile Bowl_BP
+[2019.11.12-22.03.42:929][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.11.12-22.03.43:289][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World/Bowl_BP" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset" SILENT=true
+[2019.11.12-22.03.43:326][531]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/Bowl_BPD6C808EF424F4CF6AC76D48456E7D4B9.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/World/Bowl_BP.uasset'
+[2019.11.12-22.04.05:581][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generic/TestCraft_PC" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset" SILENT=true
+[2019.11.12-22.04.05:687][837]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_PC40F6701C4199A38FE9B8E2B344013401.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset'
+[2019.11.12-22.05.39:135][953]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-22.05.39:135][953]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-22.06.30:541][989]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-22.06.30:541][989]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.12-22.07.18:796][862]BlueprintLog: New page: Compile TestCraft_PC
+[2019.11.12-22.07.19:052][862]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2019.11.12-22.07.19:397][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generic/TestCraft_PC" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset" SILENT=true
+[2019.11.12-22.07.19:506][879]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_PCADF5E99045F7CBD35B600CA8180BD4BE.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset'
+[2019.11.12-22.07.43:036][267]BlueprintLog: New page: Compile TestCraft_PC
+[2019.11.12-22.07.43:299][267]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2019.11.12-22.07.43:743][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generic/TestCraft_PC" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset" SILENT=true
+[2019.11.12-22.07.43:838][287]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_PCF8CAA10F473FCAA29667A5A7F1FC73E5.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset'
+[2019.11.12-22.08.26:721][836]BlueprintLog: New page: Compile TestCraft_PC
+[2019.11.12-22.08.26:968][836]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.11.12-22.08.27:196][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generic/TestCraft_PC" FILE="../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset" SILENT=true
+[2019.11.12-22.08.27:282][846]LogSavePackage: Moving '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Saved/TestCraft_PC354F306E4E439A51FC2D74A0026015A1.tmp' to '../../../../../HSE/2019-2020/Git_old/VillageForestBoi/Content/Blueprints/Generic/TestCraft_PC.uasset'
+[2019.11.12-22.08.36:765][271]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.11.12-22.08.43:208][647]LogUObjectArray: Warning: Other object in slot
+[2019.11.12-22.08.43:239][647]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.12-22.08.53:445][647]LogStats: FPlatformStackWalk::StackWalkAndDump - 10.135 s
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: 
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: Stack: 
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb37a75279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb37297fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb372a622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb32936c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb30f04dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb30ebe057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb3858d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb3877c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb385d922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb385b5738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb385a9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb5b3e4c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb5b3d26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb5b3e7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffb5b3cedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.12-22.08.53:445][647]LogOutputDevice: Error: [Callstack] 0x00007ffba7b5ca66 USER32.dll!UnknownFunction []
+[2019.11.12-22.08.53:446][647]LogOutputDevice: Error: [Callstack] 0x00007ffba7b5c582 USER32.dll!UnknownFunction []
+[2019.11.12-22.08.53:446][647]LogOutputDevice: Error: [Callstack] 0x00007ffb5b3e88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.12-22.08.53:446][647]LogOutputDevice: Error: [Callstack] 0x00007ff785116980 UE4Editor.exe!UnknownFunction []
+[2019.11.12-22.08.53:446][647]LogOutputDevice: Error: [Callstack] 0x00007ff78512a91c UE4Editor.exe!UnknownFunction []
+[2019.11.12-22.08.53:446][647]LogOutputDevice: Error: [Callstack] 0x00007ff78512a9fa UE4Editor.exe!UnknownFunction []
+[2019.11.12-22.08.53:446][647]LogOutputDevice: Error: [Callstack] 0x00007ff78513b92c UE4Editor.exe!UnknownFunction []
+[2019.11.12-22.08.53:446][647]LogOutputDevice: Error: [Callstack] 0x00007ff78513e60e UE4Editor.exe!UnknownFunction []
+[2019.11.12-22.08.53:446][647]LogOutputDevice: Error: [Callstack] 0x00007ffba6097974 KERNEL32.DLL!UnknownFunction []
+[2019.11.12-22.08.53:446][647]LogOutputDevice: Error: [Callstack] 0x00007ffba8a4a271 ntdll.dll!UnknownFunction []
+[2019.11.12-22.08.53:446][647]LogOutputDevice: Error: 
+[2019.11.12-22.08.53:492][647]LogStats:                SubmitErrorReport -  0.000 s
