@@ -1,0 +1,15 @@
+DlgVersion 7
+DlgName "NewDlgDialogue"
+DlgGuid {  A 2103100615 B 1332374135 C -829010290 D -1665785878 }
+Node_Speech StartNode
+{
+	Text ""
+	SpeakerState "None"
+	bIsVirtualParent False
+	OwnerName "None"
+	bCheckChildrenOnEvaluation False
+	NodeData ""
+	VoiceSoundWave ""
+	VoiceDialogueWave ""
+	GenericData ""
+}
