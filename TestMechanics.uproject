@@ -5,9 +5,9 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "DlgSystem",
+			"Name": "DialoguePlugin",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6d0255a60be340dfa1c556503cc57eb3"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/847aa65dc3024a37ae83ed89307524bd"
 		}
 	]
 }
