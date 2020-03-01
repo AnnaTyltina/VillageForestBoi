@@ -118,3 +118,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/windows,unrealengine
+Content/Assets/Music/Environment/S_Env_Forest_1.uasset
+Content/Assets/Music/Environment/S_Env_Forest_2.uasset
